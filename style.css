@@ -87,10 +87,12 @@
     border-radius: 10px;
 }
 
-.espatial {
+.espatial button {
+    background: none;
     border: 3px solid tomato;
-    background-color: blue;
+    background-color: rgb(240, 131, 91);
     border-radius: 10px;
+
 }
 
 .another-amount {
@@ -105,6 +107,7 @@
 .another-amount input {
     margin-top: 30px;
     border: none;
+    outline: none;
     width: 100%;
     border-bottom: 2px solid silver;
     text-align: center;
