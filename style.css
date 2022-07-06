@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+
 }
 
 .home-page {
@@ -128,6 +129,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 40px;
 
 
 }
@@ -202,6 +204,7 @@
 
 .last-part h1 {
     color: brown;
+    font-family: 'Kaushan Script', cursive;
 
 }
 
